@@ -1,0 +1,13 @@
+need to intall
+
+for barcode
+1.zbar
+
+for pdf to image conversion
+
+1.imagemagick
+2.ghostscript
+
+for pdf printing
+
+foxit reader
