@@ -19,3 +19,5 @@ pip install PyPDF2
 
 
 Start idle as administrator then open the main.py then run it.
+
+Administrator password: ron
