@@ -13,11 +13,10 @@
 `pip install PyPDF2`
 
 
-***
- 
+
 Use python as an administrator
 
-***
+
 
 
 Administrator password: ron
