@@ -1,2 +1,2 @@
 # LMS
-Library Management System in written in python and kivy
+Library Management System in python and kivy
