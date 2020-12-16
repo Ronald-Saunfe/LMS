@@ -14,7 +14,7 @@
 
 
 
-Use python as an administrator
+run python as an administrator
 
 
 
