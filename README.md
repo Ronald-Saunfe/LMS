@@ -57,4 +57,3 @@ The system enables you to set limit on the number of books issued to a member, g
 You can help sponser the project to help it grow by becoming a patron
 https://www.patreon.com/saunfe
 
-<a href="https://www.patreon.com/bePatron?u=47181738" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
